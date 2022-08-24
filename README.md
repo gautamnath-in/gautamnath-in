@@ -9,7 +9,7 @@ I'm currently a web developer at [Indegene](https://www.indegene.com/) and forme
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webdev-gautam)
 [![GautamNath StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12372702)](https://stackoverflow.com/users/12372702/gautam)
 
-<img align="right" src="https://c.tenor.com/Gfm1uaH_0-cAAAAC/code-its-fun-its-fun.gif"/>
+<img align="right" src="https://c.tenor.com/Gfm1uaH_0-cAAAAC/code-its-fun-its-fun.gif" width="300"/>
 
 On my blog
 ---
