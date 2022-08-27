@@ -15,6 +15,7 @@ On my blog
 ---
 
 - [Functions in JavaScript](https://medium.com/@webdev-gautam/different-types-of-functions-in-javascript-and-their-fancy-names-550d10bc31b8)
+- [Arrays in JavaScript](https://gautamnath.hashnode.dev/javascript-array-methods)
 - [Manage Multiple Gits](https://gautamnath.hashnode.dev/add-manage-multiple-git-accounts-2-steps)
 - [Git Bash](https://gautamnath.hashnode.dev/git-bash-basics-cheat-sheet-with-images)
 - [Cheatsheets](https://gautamnath.hashnode.dev/markdown-cheatsheet-for-you)
