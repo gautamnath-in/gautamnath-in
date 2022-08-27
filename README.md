@@ -3,7 +3,7 @@
 I'm currently a web developer at [Indegene](https://www.indegene.com/) and formerly at [Webchilly](https://www.webchily.com/) based in 🏞️Bangalore. I am working on some side projects to learn a couple of new programming libraries and trying to help as an open-source contributor.
 
 [![gautamnath](https://img.shields.io/badge/gautamnath%20-in-F80000?style=for-the-badge&logo=google%20chrome&logoColor=white)](https://gautamnath.netlify.app/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://webdev-gautam.medium.com)
+[![Hashnode](https://img.shields.io/badge/medium-758283?style=for-the-badge&logo=medium&logoColor=white)](https://webdev-gautam.medium.com)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gautamnath.hashnode.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdev-gautam/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webdev-gautam)
