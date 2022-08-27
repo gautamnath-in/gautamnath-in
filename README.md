@@ -1,4 +1,4 @@
-## Hi 👋🏻, I'm [Gautam](https://gautamnath.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=CAD5E2&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Gautam;Glad+to+see+you+here+%F0%9F%98%80)](https://git.io/typing-svg)
 
 I'm currently a web developer at [Indegene](https://www.indegene.com/) and formerly at [Webchilly](https://www.webchily.com/) based in 🏞️Bangalore. I am working on some side projects to learn a couple of new programming libraries and trying to help as an open-source contributor.
 
