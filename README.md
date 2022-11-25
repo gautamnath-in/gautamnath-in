@@ -27,12 +27,15 @@ More on [@GautamNath/blogs](https://hashnode.com/@GautamNath)
 #### Languages and Tools:
 ![JavaScript](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg) 
 ![CSS](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![Bootstrap](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg)
 ![jQuery](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg)
 ![React](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
 ![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
 ![VS Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg)
+[![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC.svg?style=for-the-badge&logo=Atlassian&logoColor=white)
 
 <!--**gautamnath-in/gautamnath-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
