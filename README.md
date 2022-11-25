@@ -7,8 +7,7 @@ I'm currently a web developer at [Indegene](https://www.indegene.com/) and forme
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gautamnath.hashnode.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdev-gautam/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webdev-gautam)
-[![GautamNath StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/12372702)](https://stackoverflow.com/users/12372702/gautam)
-
+<a href="https://stackoverflow.com/users/12372702/gautam"><img src="https://stackoverflow.com/users/flair/12372702.png" width="120" height="30" alt="profile for Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <img align="right" src="https://c.tenor.com/Gfm1uaH_0-cAAAAC/code-its-fun-its-fun.gif" width="300"/>
 
 On my blog
